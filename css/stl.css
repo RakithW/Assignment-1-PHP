@@ -1,0 +1,60 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+    color: #fff;
+    text-align: center;
+}
+
+h2{
+    font-family: "Academy Engraved LET";
+}
+
+p,a,li,th,td,label,input{
+    font-size: 1.2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand img {
+    height: 100px;
+    width: auto;
+}
+
+.navbar img{
+    height: 100px;
+    width: auto;
+}
+
+.logo-img {
+    height: 100px;
+    width: auto;
+}
+
+
+.masthead{
+    height: 80vh;
+    width: 100%;
+    background-image: url("../img/pizza-uhd-4k-wallpaper.jpg");
+    background-size: cover;
+}
+
+.masthead div{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-row{
+    padding: 5%;
+}
+.form-row h2{
+    font-size: 2.5em;
+}
+.form-row .form-group{
+    margin: 15px 0px;
+}
+.submit-message{
+    text-align: center;
+}
